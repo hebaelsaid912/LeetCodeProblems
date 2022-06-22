@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc829529-ee61-418f-8f98-bbee31415fe5" name="Changes" comment="solve roman to integer problem">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Two Sum.kt" afterDir="false" />
+    <list default="true" id="dc829529-ee61-418f-8f98-bbee31415fe5" name="Changes" comment="solve two Sum problem">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Palindrome Numbers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Two_SumKt">
+  <component name="RunManager" selected="Kotlin.Palindrome_NumbersKt">
+    <configuration name="Palindrome_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome_NumbersKt" />
+      <module name="LeetCodeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Roman_to_IntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Roman_to_IntegerKt" />
       <module name="LeetCodeProblems" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Palindrome_NumbersKt" />
         <item itemvalue="Kotlin.Two_SumKt" />
         <item itemvalue="Kotlin.Roman_to_IntegerKt" />
       </list>
@@ -74,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655798985485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solve two Sum problem">
+      <created>1655891505157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655891505157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve roman to integer problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve roman to integer problem" />
+    <MESSAGE value="solve two Sum problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve two Sum problem" />
   </component>
 </project>
